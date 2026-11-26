@@ -50,11 +50,15 @@ A hybrid Japanese Discord chatbot that combines non-task-oriented chit-chat (mor
 
 ## セットアップ / Setup
 git clone [https://github.com/](https://github.com/)<your-username>/discord-dialogue-bot.git
+
 cd discord-dialogue-bot
+
 pip install -r requirements.txt
+
 python -m unidic download
 
 cp settings.example.py settings.py
+
 python bot.py
 
 ---
