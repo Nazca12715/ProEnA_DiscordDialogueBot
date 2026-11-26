@@ -2,7 +2,7 @@
 
 ルールベース応答・日本語BERTによる感情分析（非タスク指向対話）と、状態遷移を用いた外部API連携・情報検索（タスク指向対話）を1つのボット内で統合したDiscord Botです。
 
-大学（東京工科大学 コンピュータサイエンス学部）のプロジェクト演習にて開発し、本システムの設計・実装および評価をまとめたレポートを含む一連の成果が**学部長賞**を受賞しました。
+大学（東京工科大学 コンピュータサイエンス学部）のプロジェクト演習にて開発し、本システムの設計・実装および評価をまとめたレポートを含む一連の成果が<a href="https://github.com/Nazca12715/ubuntu-lamp-server-manual">他1本のレポート</a>とあわせて**学部長賞**を受賞しました。
 
 A hybrid Japanese Discord chatbot that combines non-task-oriented chit-chat (morphological analysis + Japanese BERT sentiment analysis) with state-managed task-oriented utilities (live postal code API lookup and rich F1 driver stat cards).
 
